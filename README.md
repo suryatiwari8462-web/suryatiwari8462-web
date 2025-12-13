@@ -43,17 +43,6 @@ I am always open to connecting, learning, and collaborating!
 
 ---
 
-## 🖼️ Special Features
-
-<div align="center">
-    <img src="https://share.google/images/fex2kRU5fPd8YOqk3" width="28px" alt="Custom Image 1 - Placeholder">
-    &nbsp;
-    <img src="https://share.google/images/0YFYl406xkdoZHT2x" width="60" height="60" alt="Custom Image 2 - Placeholder">
-
-</div>
-
----
-
 <div align="center">
     <p>
         ✨ <em>“here the beuty of HTML meets✨”</em> – HTML-for cool-yo-yo
