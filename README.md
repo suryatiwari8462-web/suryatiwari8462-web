@@ -1,14 +1,17 @@
 # Hi there, I'm Surya Tiwari! 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suryatiwari8462-web&label=Profile%20views&color=0e75b6&style=flat" alt="suryatiwari8462-web" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcom%20to%20FastForwaddingAiWorld&fontSize=50" alt="Header" />
 </p>
 
+<p align="center">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg" width="100" /> 
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRnd3B6eGZ4bm9oZnd6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Cartoon" />
+</p>
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on building cool web projects.
-- 🌱 I’m currently learning advanced Frontend and Backend integration.
 - 💬 Ask me about **JavaScript, React, or Web Design**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- 📫 How to reach me: [Descord](suryatiwariji_49881)
 
 ---
 
