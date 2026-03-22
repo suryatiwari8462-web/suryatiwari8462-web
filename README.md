@@ -11,7 +11,7 @@
   <br>
 </p>
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on building cool web projects.
+- 🔭 I’m currently working on building cool apps and web project.
 - 💬 Ask me about **JavaScript, React, or Web Design**.
 - 📫 How to reach me: [Descord](suryatiwariji_49881)
 
