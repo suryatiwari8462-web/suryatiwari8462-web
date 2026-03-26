@@ -1,4 +1,10 @@
 # Hi there, I'm Surya Tiwari! 👋
+<div id="header">
+  <h2>
+    Hi Everyone, Welcome To My Personal GitHub Profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div> 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcom%20to%20FastForwaddingAiWorld&fontSize=50" alt="Header" />
 </p>
@@ -10,6 +16,12 @@
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   <br>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
+</div>
+
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on building cool apps and web project.
 - 💬 Ask me about **JavaScript, React, or Web Design**.
@@ -23,21 +35,49 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode" />
   </a>
 </p>
+### Technologies
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/archive_web/archive_web-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>	
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/rss/rss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/readmeio/readmeio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_safari/apple_safari-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+
+### Random Joke For You To Enjoy!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=suryatiwari8462-web&show_icons=true&theme=radical" alt="Surya's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryatiwari8462-web&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+### Quotes By Famous Developers!
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
+<details>
+	<summary><h3>Follow me ✨</h3></summary>
+
 
 ### 🐍 Contribution Snake
 ![snake gif](https://github-readme-streak-stats.herokuapp.com/?user=suryatiwari8462-web&theme=radical)
 
+<div align="center">
+  
+![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
+
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
