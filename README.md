@@ -3,11 +3,19 @@
   <h2>
     Hi Everyone, Welcome To My Personal GitHub Profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+	  <h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=500&color=FF5733&width=435&lines=Welcome+to+My+Coding+World!;Let's+Build+Something+Awesome;Always+a+learner+Progress+is+future;Coding+is+future+**+Build+own+future;Love+to+code+*****+Build+to+code" alt="Gradient Text Animation" />
+</h3>
+
 </div> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcom%20to%20FastForwaddingAiWorld&fontSize=50" alt="Header" />
 </p>
+<p align="center" valign="center" width="300">
+      <!-- Coding GIF -->
+      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+  
 
 <p align="center">
   <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg" width="100" /> 
@@ -35,6 +43,16 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode" />
   </a>
 </p>
+### Badges
+<p align="left">
+  <img src="https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.08_81418d01.jpg?raw=true" width="100" height="100" alt="Badge1"/>
+  <img src="https://github.com/Spandan2106/Spandan2106/blob/4fade4e39509b870afafc89b02eba242c30ba518/lvl1-astronaut.webp" width="100" height="100" alt="Badge2"/>
+  <img src="https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.09_f3a39971.jpg?raw=true" width="100" height="100" alt="Badge3"/>
+  <img src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" width="100" height="100" alt="Badge4"/>
+<img src = "WhatsApp Image 2025-11-08 at 23.00.33_0f6f4fa6.jpg" width = "100" height = "100">
+<img src = "WhatsApp Image 2025-11-08 at 23.00.33_46a04c9e.jpg" width = "100" height = "100">
+</p>
+
 ### Technologies
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
@@ -62,6 +80,10 @@
 ### Random Joke For You To Enjoy!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### Github Stats Snake:
+![Snake](https://github.com/Spandan2106/Spandan2106/blob/d07d89ebb57d05e1b7ce676bbc1c6b322224b089/snake-light.svg)
+
 ---
 
 ### Quotes By Famous Developers!
@@ -71,6 +93,7 @@
 ---
 <details>
 	<summary><h3>Follow me ✨</h3></summary>
+	
 
 
 ### 🐍 Contribution Snake
