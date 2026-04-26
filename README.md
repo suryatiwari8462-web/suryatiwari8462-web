@@ -45,30 +45,6 @@
 </p>
 </p>
 
-### Technologies
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/archive_web/archive_web-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>	
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/rss/rss-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/readmeio/readmeio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_safari/apple_safari-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-
 ### Random Joke For You To Enjoy!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
